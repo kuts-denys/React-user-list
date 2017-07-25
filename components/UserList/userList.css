@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.user-list {
+  margin: 0 auto;
+  width: 370px;
+  margin-top: 50px;
+  font-size: 18px;
+}

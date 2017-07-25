@@ -1,0 +1,8 @@
+.user-row {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  width: 100%;
+}

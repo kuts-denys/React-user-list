@@ -1,0 +1,12 @@
+.user-input-form {
+  margin-bottom: 20px;
+}
+
+.user-input-form input {
+  padding: 5px;
+  margin: 0 10px;
+}
+
+.user-input-form button {
+  padding: 5px 10px;
+}
